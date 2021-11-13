@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main(){
+
+    printf("Hello World! Welcome \n");
     char alpha;
     printf("Enter the Alphabet = ");
     scanf("%c", &alpha);
